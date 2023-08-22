@@ -47,6 +47,6 @@ Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 
 ### Meus Principais Projetos
 [![Jogo da Velha](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-velha)
-[![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
 [![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=simon-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/simon-game)
+[![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
 [![Album Viagem](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=Album-Fotos-Fortaleza-2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/Album-Fotos-Fortaleza-2023)

@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **GDeusvid/GDeusvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,23 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
-<!--
-**GDeusvid/GDeusvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# David W. Gonçalves
+# Hello! 👋
 Olá, sou o David!
 
 Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
@@ -39,17 +23,26 @@ Atualmente estou concluindo o curso The Complete 2023 Web Development Bootcamp.
 Também estou estudando o Bootcamp Fullstack Java+Angular uma bolsa a qual fui selecionado do Becas Santander.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gdavidwillian)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:david.dev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-willian-g/)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gdavidwillian)
 
+### Estudando
+[![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=red)](https://docs.github.com/)
+[![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=blue)](https://docs.github.com/)
+[![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=nodedotjs&logoColor=green)](https://docs.github.com/)
+[![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)](https://docs.github.com/)
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Jquery](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery&logoColor=blue)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=blue)](https://docs.github.com/)
+[![Office](https://img.shields.io/badge/Office-000?style=for-the-badge&logo=microsoftoffice&logoColor=orange)](https://docs.github.com/)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gdeusvid&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
@@ -57,4 +50,6 @@ Também estou estudando o Bootcamp Fullstack Java+Angular uma bolsa a qual fui s
 
 ### Meus Principais Projetos
 [![Jogo da Velha](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-velha)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
+[![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
+[![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=simon-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/simon-game)
+[![Album Viagem](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=Album-Fotos-Fortaleza-2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/Album-Fotos-Fortaleza-2023)

@@ -19,9 +19,6 @@ Olá, sou o David!
 
 Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 
-Atualmente estou concluindo o curso The Complete 2023 Web Development Bootcamp.
-Também estou estudando o Bootcamp Fullstack Java+Angular uma bolsa a qual fui selecionado do Becas Santander.
-
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:david.dev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-willian-g/)

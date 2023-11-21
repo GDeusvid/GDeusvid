@@ -29,6 +29,7 @@ Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=blue)](https://docs.github.com/)
 [![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=nodedotjs&logoColor=green)](https://docs.github.com/)
 [![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)](https://docs.github.com/)
+[![PostgresSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue)](https://docs.github.com/)
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)

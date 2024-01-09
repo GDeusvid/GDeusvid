@@ -19,6 +19,8 @@ Olá, sou o David!
 
 Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 
+![gif engraçado buscando](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:david.dev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-willian-g/)
@@ -47,7 +49,8 @@ Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gdeusvid&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Projetos
+[![Bot Telegram de Rastreio dos Correios](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=Rastreio_Correios_Telegram_Bot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/Rastreio_Correios_Telegram_Bot)
+[![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
 [![Jogo da Velha](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-velha)
 [![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=simon-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/simon-game)
-[![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
 [![Album Viagem](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=Album-Fotos-Fortaleza-2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/Album-Fotos-Fortaleza-2023)

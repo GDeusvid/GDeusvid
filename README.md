@@ -50,6 +50,8 @@ Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 
 ### Meus Principais Projetos
 [![Bot Telegram de Rastreio dos Correios](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=Rastreio_Correios_Telegram_Bot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/Rastreio_Correios_Telegram_Bot)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/js-developer-pokedex)
+[![Gerador QR CODE](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=QR-Code-Infinity&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/QR-Code-Infinity)
 [![Jogo da Forca](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-forca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-forca)
 [![Jogo da Velha](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/jogo-da-velha)
 [![Simon Game](https://github-readme-stats.vercel.app/api/pin/?username=Gdeusvid&repo=simon-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gdeusvid/simon-game)

@@ -19,12 +19,14 @@ Olá, sou o David!
 
 Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
 
-![gif engraçado buscando](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<!--![gif engraçado buscando](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv)-->
+<img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width="80%">
+
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:david.dev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-willian-g/)
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gdavidwillian)
+<!--[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gdavidwillian)-->
 
 ### Estudando
 [![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=red)](https://docs.github.com/)

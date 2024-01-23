@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋
-Olá, sou o David!
-
-Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.
-
+<div align="center">
+<h1> Hello! It`s me David 👋</h1>
+<h3>Estudo Desenvolvimento Web e busco minha primeira oportunidade na área.</h3>
+</div>
 <!--![gif engraçado buscando](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv)-->
-<img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width="100%">
-
+<div align="center">
+<img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width="70%">
+</div>
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:david.dev.go@gmail.com)
